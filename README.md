@@ -1,6 +1,6 @@
 <img src="images/Hlw world.jpg">
 
-<p align="center">
+<p>
   <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
   <a href="https://www.facebook.com/abir.ahsan.50">Facebook</a> •
   <a href="https://www.instagram.com/abir_ahsan619/">INSTAGRAM</a> •
