@@ -5,7 +5,7 @@
   <a href="https://www.facebook.com/abir.ahsan.50">Facebook</a> •
   <a href="https://www.instagram.com/abir_ahsan619/">INSTAGRAM</a> •
   <a href="https://www.linkedin.com/in/abir-ahsan-64b630195/">Linkedin</a> •
-  <a><img align="right" src="images/abir.jpg" width=400> </a>
+<!--  <a><img align="right" src="images/abir.jpg" width=400> </a> -->
   <a href="https://www.youtube.com/channel/UC2I2BhHnzdTrr6AjMVdnOvA">YouTube</a> •
 </p>
 
