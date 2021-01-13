@@ -9,7 +9,7 @@
 </p>
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="images/abir.jpg" width=400 /> </a>
+  <img align="right" src="images/abir.jpg" width=300 /> </a>
 
 - 🔭 I’m currently studying CSE at United International University
 - 🤔 I’m looking forward to become a Full Stack Web Developer.
