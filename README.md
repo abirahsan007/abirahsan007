@@ -11,9 +11,10 @@
 
 <a><img align="right" src="images/abir.jpg" width=400> </a>
 
-- 🔭 I’m currently studying CSE at United International University
+- 💬 I’m currently working at Preneur Lab as a Web Developer.
+- 🔭 I’m a CSE graduate from United International University
 - 🤔 I’m looking forward to become a Full Stack Web Developer.
-- 🌱 I’m currently learning Laravel.
+- 🌱 I’m currently learning React js.
 - 📫 How to reach me: abirahsan619@gmail.com
 - ⚡ Fun fact: can't live without Music & Movie/series.
 <!--
